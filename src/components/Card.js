@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import DisplayRecipe from './DisplayRecipe';
 import StarRating from './StarRating';
 import { useDispatch, useSelector } from 'react-redux';

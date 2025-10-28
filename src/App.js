@@ -3,7 +3,6 @@ import Home from "./pages/Home";
 import Recipes from "./pages/Recipes";
 import Settings from "./pages/Settings";
 import "./styles/index.scss";
-import { Provider } from "react-redux";
 import Contact from "./pages/Contact";
 
 
